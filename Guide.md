@@ -10,3 +10,5 @@
 ## Xima
 - User manual
 - test
+- salam
+- chetoriiiiiii
