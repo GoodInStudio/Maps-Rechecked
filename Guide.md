@@ -18,14 +18,10 @@ asdasd
 
 [Comments]: Comments 
 
-| Syntax      | Description | slasdasdas dasd m |
-|        :--- | :---:       | ---:              |
-| Header      |   a         |   1               |
-| Paragraph   |   b         |   2               |
-| Header      |   c         |   3               |
-| Paragraph   |   d         |   4               |
-| Header      |   e         |   5               |
-| Paragraph   |   f         |   6               |
+| Table of Contents| |
+|:--- | ---:|
+| Maps-Rechecked | [Go](#Maps-Rechecked ) |
+| Checklist to do things   | [Go](### Checklist to do things ) |
 
 [GoodInStudio](http://www.goodin.studio/)
 
@@ -42,8 +38,12 @@ ___
 >
 > - [ ] salam
 > - [x] na salam 
->
+> 
+><br>
 
+<br>
+
+___
 ___
 
  ## DatisTech
@@ -105,3 +105,6 @@ ___
 >
 >Thank you for reading this file
 >
+
+
+> ### Checklist to do things
