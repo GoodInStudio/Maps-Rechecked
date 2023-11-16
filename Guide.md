@@ -1,12 +1,50 @@
+[Logo]:/Logo.jpg
+
 # Maps-Rechecked 
-  
+
+<center>
+
+![GoodInStudio][Logo]
+
+</center>
+
+X<sup>2</sup>
+<font color="red">This text is red!</font>
+H<sub>2</sub>O
+
+asdasd
+
+
+| Syntax      | Description | slasdasdas dasd m |
+|        :--- | :---:       | ---:              |
+| Header      |   a         |   1               |
+| Paragraph   |   b         |   2               |
+| Header      |   c         |   3               |
+| Paragraph   |   d         |   4               |
+| Header      |   e         |   5               |
+| Paragraph   |   f         |   6               |
+
+[GoodInStudio](http://www.goodin.studio/)
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+- [Logo][Logo]
+- [hobbit-hole][1]
+___
+
 > ### Checklist to do things
 >
 > Please read this file completely if you are not familiar with the structure.
->> 1. salam
+>> 1. salam 
+>
+> - [ ] salam
+> - [x] na salam 
 >
 
+___
+
  ## DatisTech
+
 **Light**
 
 - ARD
@@ -42,6 +80,7 @@
 **Xima**
 
 ## Xima
+
 - User manual
 
 
