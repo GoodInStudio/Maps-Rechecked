@@ -1,21 +1,20 @@
-[Logo]:/File/Logo.jpg
+[GS]:GoodInStudio
 
 # Maps-Rechecked 
 
 <center>
 
-![GoodInStudio][Logo]
-<img src="File/Logo.jpg" width="200" height="100">
+<img src="File/Logo.jpg" width="200" height="106">
 
 </center>
 
-> :warning: **Warning:** Do not push the big red button.
+> :warning: **Warning:** Do not push the big red button. 
 
 asdasd
 
 [Comments]: Comments 
 
-| Table of Contents| |
+| Table of Contents| Link |
 |:--- | ---:|
 | Maps-Rechecked | [Go](#Maps-Rechecked) |
 | Checklist to do things   | [Go](#Checklist-to-do-things) |
@@ -23,13 +22,11 @@ asdasd
 | Datis Files | [Go](#Datis) |
 | Xima Files | [Go](#Xima) |
 
-[GoodInStudio](http://www.goodin.studio/)
+[Good In Studio][GS]
 
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
-
-- [Logo][Logo]
-- [hobbit-hole][1]
 ___
+___
+
 
 > ### Checklist to do things
 >
@@ -41,7 +38,6 @@ ___
 > 
 ><br>
 
-<br>
 
 ___
 ___
@@ -54,7 +50,7 @@ ___
 
   - 1.2
 
-      - Package(Cover)
+      - Package(Cover) [Go](file://192.168.1.138/Maps%20-%20Rechecked/%E2%99%A0%20Good%20In%20Studio/DatisTech/)
       - User Manual
 
   - 1.8
