@@ -7,12 +7,17 @@
       - Package(Cover) 
       - User Manual
     - 1.8
+      - Package(Cover) 
+      - User Manual
   - Control Panel
     - Package(Cover)
+  - Mother Pack
+    - OEM-Mother
+     - Package(Cover)
   - OEM
-    - Package(Cover)
-  - OEM-Mother
+      - Package(Cover)
   - Revision
+    - Package(Cover)
 - Xima
 ## Xima
 - User manual
