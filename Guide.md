@@ -52,7 +52,7 @@ ___
 
       - Package(Cover)
       <a href="
-      \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech
+      file://192.168.1.138/Maps%20-%20Rechecked/%E2%99%A0%20Good%20In%20Studio/DatisTech/
       ">Go</a>
       - User Manual
 
