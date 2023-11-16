@@ -1,4 +1,4 @@
-[Logo]:/Logo.jpg
+[Logo]:/File/Logo.jpg
 
 # Maps-Rechecked 
 
@@ -12,8 +12,11 @@ X<sup>2</sup>
 <font color="red">This text is red!</font>
 H<sub>2</sub>O
 
+> :warning: **Warning:** Do not push the big red button.
+
 asdasd
 
+[Comments]: Comments 
 
 | Syntax      | Description | slasdasdas dasd m |
 |        :--- | :---:       | ---:              |
