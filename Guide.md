@@ -1,5 +1,11 @@
-# Maps-Rechecked
+# Maps-Rechecked 
   
+> ### Checklist to do things
+>
+> Please read this file completely if you are not familiar with the structure.
+>> 1. salam
+>
+
  ## DatisTech
 **Light**
 
@@ -38,14 +44,22 @@
 ## Xima
 - User manual
 
-### Usage guide
 
-> **Light**
-
-> - Light
-
-> **Light**
-
-> **Light**
-
-> **Light**
+> ### Usage Guide
+>
+> Guide to reading this file
+> 1. salam
+> 2.
+>
+>> **Product Family**
+>
+>> - Product Categories
+>
+>> - - Products
+>
+>> - - - Essentials
+>
+>> - - - - Subcategory
+>
+>Thank you for reading this file
+>
