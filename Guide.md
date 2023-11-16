@@ -5,12 +5,9 @@
 <center>
 
 ![GoodInStudio][Logo]
+<img src="File/Logo.jpg" width="200" height="100">
 
 </center>
-
-X<sup>2</sup>
-<font color="red">This text is red!</font>
-H<sub>2</sub>O
 
 > :warning: **Warning:** Do not push the big red button.
 
@@ -20,8 +17,11 @@ asdasd
 
 | Table of Contents| |
 |:--- | ---:|
-| Maps-Rechecked | [Go](#Maps-Rechecked ) |
-| Checklist to do things   | [Go](### Checklist to do things ) |
+| Maps-Rechecked | [Go](#Maps-Rechecked) |
+| Checklist to do things   | [Go](#Checklist-to-do-things) |
+| DatisTech Files | [Go](#DatisTech) |
+| Datis Files | [Go](#Datis) |
+| Xima Files | [Go](#Xima) |
 
 [GoodInStudio](http://www.goodin.studio/)
 
@@ -105,6 +105,3 @@ ___
 >
 >Thank you for reading this file
 >
-
-
-> ### Checklist to do things
