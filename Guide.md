@@ -51,10 +51,7 @@ ___
   - 1.2
 
       - Package(Cover)
-      <a href="
-      file:////192.168.1.138/Maps - Rechecked/%E2%99%A0 Good In Studio/DatisTech/Light/ARD/1.2/Package(Cover)/
-      ">Go</a>
-      - User Manual
+        > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.2
 
   - 1.8
 
