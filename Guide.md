@@ -50,7 +50,10 @@ ___
 
   - 1.2
 
-      - Package(Cover) [Go](file://192.168.1.138/Maps%20-%20Rechecked/%E2%99%A0%20Good%20In%20Studio/DatisTech/)
+      - Package(Cover)
+      <a href="
+      \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech
+      ">Go</a>
       - User Manual
 
   - 1.8
