@@ -52,7 +52,7 @@ ___
 
       - Package(Cover)
       <a href="
-      file://192.168.1.138/Maps%20-%20Rechecked/%E2%99%A0%20Good%20In%20Studio/DatisTech/
+      Z:\Camera
       ">Go</a>
       - User Manual
 
