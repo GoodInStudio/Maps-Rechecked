@@ -50,48 +50,52 @@ ___
 
   - 1.2
   
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.2
-
-      - Package(Cover)
+    >- Package(Cover)
+    
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.2
 
   - 1.8
-  
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.8
 
-      - Package(Cover) 
-      - User Manual
+    >- Package(Cover) 
+    >- User Manual
+  
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.8
 
 - Control Panel
 
   - Light Control Panel
+ 
+    >- Package(Cover)
   
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\DatisTech\Light\Control Panel\Light Control Panel
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\DatisTech\Light\Control Panel\Light Control Panel
 
-      - Package(Cover)
 
 - Mother Pack
 
-    - OEM-Mother
-  
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Mother Pack\OEM-Mother
+  - OEM-Mother
 
-      - Package(Cover)
+    >- Package(Cover)
+  
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Mother Pack\OEM-Mother
+
 
 - OEM
 
   - All
   
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\OEM\All
+      >- Package(Cover)
   
-      - Package(Cover)
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\OEM\All
+  
 
 - Revision
 
   - Light Revision
   
-  > \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
+      >- Package(Cover)
+  
+        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
 
-      - Package(Cover)
 
 **Xima**
 
