@@ -1,10 +1,10 @@
-[GS]:GoodInStudio
+[GS]:http://www.GoodInStudio.ir
 
 # Maps-Rechecked 
 
 <center>
 
-<img src="File/Logo.jpg" width="200" height="106">
+[<img src="File/Logo.jpg" width="200" height="106">][GS]
 
 </center>
 
@@ -23,25 +23,18 @@ asdasd
 
 [Good In Studio][GS]
 
-___
-___
-
-
-> ### Checklist to do things
->
-> Please read this file completely if you are not familiar with the structure.
->> 1. salam 
->
-> - [ ] salam
-> - [x] na salam 
-> 
-><br>
-
+<br>
 
 ___
 ___
 
- ##  DatisTech --------------------- [Back Up](#Maps-Rechecked)
+ ##  DatisTech 
+
+<div style='text-align: right;'>
+
+[Back Up](#Maps-Rechecked)
+
+</div>
 
 **Light**
 
@@ -121,3 +114,19 @@ ___
 >
 >Thank you for reading this file
 >
+
+
+___
+___
+
+
+> ### Checklist to do things
+>
+> Please read this file completely if you are not familiar with the structure.
+>> 1. salam 
+>
+> - [ ] salam
+> - [x] na salam 
+> 
+><br>
+
