@@ -14,7 +14,7 @@ asdasd
 
 [Comments]: Comments 
 
-| Table of Contents| Link |
+| Table of Contents | Link |
 |:--- | ---:|
 | Checklist to do things   | [Go](#Checklist-to-do-things) |
 | DatisTech Files | [Go](#DatisTech) |
@@ -35,6 +35,8 @@ ___
 [Back Up](#Maps-Rechecked)
 
 </div>
+
+<br>
 
 **Light**
 
