@@ -88,7 +88,7 @@ ___
   
       >- Package(Cover)
   
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
 
 
 **Xima**
@@ -99,25 +99,25 @@ ___
     
     >- Label
     
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\EnDat
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\EnDat
 
   - i05
     
     >- Label
     
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i05
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i05
   
   - i12
     
     >- Label
     
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i12
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i12
   
   - SinCos
     
     >- Label
     
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\SinCos
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\SinCos
 
 - VFD
 
