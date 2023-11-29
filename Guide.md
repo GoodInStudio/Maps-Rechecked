@@ -44,7 +44,9 @@ ___
 
   - 1.2
   
+    >- Package Label
     >- Package(Cover)
+    >- User Manual
     
         \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\ARD\1.2
 
@@ -132,32 +134,3 @@ ___
 > - [x] na salam 
 > 
 ><br>
-
-###### salam salam salam
-
-- salamasdasd
-  - asdasdasd
-  - asdasdasd
-    - asdasdasd
-    - asdasdasd
-    - asdasdasd
-  - asdasdasd
-  - asdasdasd
-  - asdasdasd
-- asdasdasd
-- asdasdasd
-- asdasdasd
-- asdasdasd
-
-test 1
-
-test 2
-
-test 2
-
-111
-
-
-2222
-
-3333
