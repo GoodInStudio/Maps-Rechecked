@@ -90,10 +90,40 @@ ___
   
       >- Package(Cover)
   
-        \\\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Light\Revision\Light Revision
 
 
 **Xima**
+
+- PG
+
+  - EnDat
+    
+    >- Label
+    
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\EnDat
+
+  - i05
+    
+    >- Label
+    
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i05
+  
+  - i12
+    
+    >- Label
+    
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\i12
+  
+  - SinCos
+    
+    >- Label
+    
+        \\192.168.1.138\Maps - Rechecked\♠ Good In Studio\DatisTech\Xima\PG\SinCos
+
+- VFD
+
+- XimaTouch
 
 ## Xima
 
@@ -134,3 +164,34 @@ ___
 > - [x] na salam 
 > 
 ><br>
+<<<<<<< HEAD
+=======
+
+###### salam salam salam
+
+- salamasdasd
+  - asdasdasd
+  - asdasdasd
+    - asdasdasd
+    - asdasdasd
+    - asdasdasd
+  - asdasdasd
+  - asdasdasd
+  - asdasdasd
+- asdasdasd
+- asdasdasd
+- asdasdasd
+- asdasdasd
+
+test 1
+
+test 2
+
+test 2
+
+salam
+
+2121212121
+
+sss
+>>>>>>> 4ec3c07f174adcb6ac43a7a998a93ff9efeac590
