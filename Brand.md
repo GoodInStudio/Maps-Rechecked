@@ -3,7 +3,7 @@
 
 ## Contents
 
-- 1 . Visual Identity: (هویت بصری) [Go](#Checklist-to-do-things)
+- 1 . Visual Identity: (هویت بصری) [Go]("#1 . Visual Identity: (هویت بصری)")
    - Logo (لوگو)
    - Colors (رنگها)
    - Fonts (فونت‌ها)
@@ -102,7 +102,7 @@
 
 ## 1 . Visual Identity: (هویت بصری)
 
-### Logo (لوگو) -------------------------------
+### Logo (لوگو)
 
 - **1. General Description of the Logo:**
   
