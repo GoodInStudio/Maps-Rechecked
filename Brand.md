@@ -3,7 +3,7 @@
 
 ## Contents
 
-- 1 . Visual Identity: (هویت بصری) [Go]("#1 . Visual Identity: (هویت بصری)")
+- 1 . Visual Identity: (هویت بصری) [Go](#1--visual-identity-هویت-بصری)
    - Logo (لوگو)
    - Colors (رنگها)
    - Fonts (فونت‌ها)
