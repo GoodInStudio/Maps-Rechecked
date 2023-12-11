@@ -97,21 +97,30 @@
 ---
 
 
-## 1 . Visual Identity: (هویت بصری)
+### 1. Visual Identity: (هویت بصری)
+1. Logo (لوگو)
+   1. General Description of the Log
+      <p>
+         توضیحی کوتاه درباره مفهوم و اهداف اصلی لوگو   
+      </p>
+      <p>
+         A brief explanation about the concept and main goals of the logo.  
+      </p>
+      <p>
+         توصیف عمومی لوگو به معنای شرح کلی از نماد یا نشان تجاری (لوگو) است که یک شرکت یا محصول از آن استفاده می‌کند. این توصیف عموماً شامل جزئیات طراحی، انتخاب رنگها، اندازه، و عناصر گرافیکی دیگر می‌شود. هدف این توصیف، به دیگران کمک کند تا درک بهتری از هویت و مفهوم پشت لوگوی مورد بحث پیدا کنند. این موارد ممکن است در اسناد مرتبط با برندینگ، بازاریابی، یا تبلیغات مورد استفاده قرار گیرند.
+      </p>
+   2. Different Versions of the Logo
+      <p>
+         نسخه‌های مختلف لوگو   
+      </p>
+      <p>
+         If the logo includes different versions for use in various conditions, these versions should be explained (such as color version, black and white, etc.).  
+      </p>
+      <p>
+         ورژن‌های مختلف لوگو: اگر لوگو شامل ورژن‌های مختلفی برای استفاده در شرایط مختلف است، این ورژن‌ها توضیح داده شوند - مثل ورژن رنگی، سیاه و سفید و غیره
+      </p>
 
 ### Logo (لوگو)
-
-- **1. General Description of the Logo:**
-  
-    A brief explanation about the concept and main goals of the logo.
-
-    (توضیحی کوتاه درباره مفهوم و اهداف اصلی لوگو)
-
-- **2. Different Versions of the Logo:**
-  
-    If the logo includes different versions for use in various conditions, these versions should be explained (such as color version, black and white, etc.).
-
-    (ورژن‌های مختلف لوگو: اگر لوگو شامل ورژن‌های مختلفی برای استفاده در شرایط مختلف است، این ورژن‌ها توضیح داده شوند - مثل ورژن رنگی، سیاه و سفید و غیره)
 
 - **3. Colors for Usage:**
   
